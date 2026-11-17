@@ -1,0 +1,6 @@
+device,bw_GBps,peak_TFLOPS,peak_basis
+RTX 5090,1792,209.5,"FP16 with FP32 accumulate, datasheet"
+M5 Ultra 512 GB,1200,80,assumption
+DGX Spark,273,100,assumption
+Strix Halo,256,59,assumption
+RTX 3050 6 GB,168,13,datasheet
